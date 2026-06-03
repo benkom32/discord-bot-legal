@@ -8,4 +8,4 @@ We do not sell or share user data with third parties.
 
 Data is used only for bot functionality.
 
-Contact: bnkm64@gmail.com
+Contact: bnkm64 [at] gmail[dot].com
